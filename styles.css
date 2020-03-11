@@ -1,0 +1,95 @@
+nav {
+  display: block;
+
+}
+body {
+  background-color: blue;
+  font-size: 85%;
+  margin: auto;
+  width: 100%;
+  max-width: 1024px;
+}
+main{
+  background-color: cyan;
+  font-size: 1.5em;
+}
+footer {
+  background-color: cyan;
+  font-size: 1em;
+  margin-top: 15px;
+}
+.MissouriNav{
+margin: 10px;
+width: 50%;
+max-width: 50%;
+}
+.IllionisNav{
+  position: relative;
+  top: -110px;
+margin: 10px;
+width: 50%;
+max-width: 50%;
+    padding-left: 25em;
+}
+h2{
+  text-align: center;
+}
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 0.75em;
+  color: green;
+}
+img {
+	width: 100%;
+	max-width: 75%;
+  max-height:600px
+}
+figure {
+	margin: 10px;
+	padding: 10px;
+  margin-bottom: -15px;
+	text-align: center;
+}
+figcaption{
+  margin:-5px;
+
+  font-style: oblique;
+}
+#picture {
+  text-align: center;
+  color: Grey;
+  font-size: 1.5em;
+  margin-bottom: -15px;
+}
+#nav{
+  margin-bottom: -10px;
+  border-bottom: -15px;
+  padding-bottom: -15px;
+  max-height: 600px;
+}
+header{
+  margin-bottom: -10px;
+  max-height:600px;
+  background-color: cyan;
+  font-size: 1.5em;
+  height:225px;
+  text-align: center;
+}
+p{
+  margin:15px;
+}
+.intorp {
+  text-align: center;
+  margin-left: 150px;
+}
+h1{
+  margin:10px;
+  text-align: center;
+  font-size:120%;
+}
